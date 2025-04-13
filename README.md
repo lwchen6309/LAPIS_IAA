@@ -1,6 +1,6 @@
 # LAPIS (The Leuven Art Personalized Image Set): A novel dataset for personalized image aesthetic assessment
 
-The code and dataset will be available upon publication.
+This repository is no longer actively maintained. For the latest updates, please visit our official repository at: https://github.com/Anne-SofieMaerten/LAPIS
 
 ## :new: Latest Update
 
